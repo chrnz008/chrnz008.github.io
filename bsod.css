@@ -1,0 +1,29 @@
+.lightblue {
+    background: #1b73e8;
+    /* Modern blue (Win 10/11) Background  */
+}
+
+.whitee {
+    color: #ffffff;
+    /*White Text / emoji*/
+}
+/* #0000AA Classic blue (Win 95–8) Background  */
+/* #0F2B5B Dark navy Accent / QR area */
+
+.padd {
+    margin-left: 10cap;
+}
+.centerr {
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+/*various font sizes*/
+.cap12 {
+    font-size: 12cap;
+}
+.cap6 {
+    font-size: 6cap;
+}
